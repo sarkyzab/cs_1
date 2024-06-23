@@ -1,2 +1,0 @@
-"# cs_portfolio_working"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/sarkyzab/cs_portfolio_working.gitgit push -u origin main
-"# cs_1"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/sarkyzab/cs_1.gitgit push -u origin main

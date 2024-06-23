@@ -26,7 +26,6 @@ Additionally, it has paved the way for me to pursue one of the entry-level follo
 
 ### Tools 
 Several tools that I used: 
-* Google Workspace (Drive, Docs, Sheets, Slides)
 * Markdown Language 
 * Tcpdump
 * Wireshark

@@ -1,50 +1,65 @@
-# Hello, I'm Zakari Mumuni
-<a href="https://www.linkedin.com/in/zakari-m-408965315/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Ketmanto-Cybersecurity-Portfolio
+> Modul 1-8 are inspired by Google. Please visit this [link](https://www.coursera.org/google-certificates/cybersecurity-certificate) for further information. More are to come, stay tuned! 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+## Professional Statements
+I am Ketmanto Wangsa. I am a Warehouse Assistant with four years of experience in the transport industry and nearly two years in the retail sector. During remote internship at a leading US supplier, I had the opportunity to serve as both Technical Support and Team Leader of the Sourcing Team. Furthermore, I completed the IBM Engagement Specialist program to enhance my interpersonal skills.
 
-## Objective
+Recently, I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and Cybersecurity. The Google IT Support and Cybersecurity Professional Certificate have prepared me for industry-ready jobs. My ultimate goal is to become a Security Analyst. This role suits me because I have strong analytical abilities, persistence, eagerness to learn, a can-do attitude, problem-solving skills, and communication skills to address problems and emerging threats. As of February 2024, I am preparing to take the `Linux Foundation Certified Associate (LFCA)`, `CompTIA A+` and `CompTIA Security+` certifications.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Portfolio
+> Please visit this [link](https://www.coursera.org/professional-certificates/google-cybersecurity) for further information.
 
-## Skills
+> Some of my documents are in PDF format to accommodate advanced formatting, include colorful presentations, and incorporate abundant screenshots for enhanced clarity and detail.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <img src="https://imgur.com/a/OyXgUJw" height="80%" width="80%" alt=Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
+* Programming for cybersecurity tasks
+* Frameworks and controls that inform security operations
+* SIEM tools for cybersecurity
+* Detecting and responding to incidents using an intrusion detection system
+* Performing packet capture and analysis
 
-## Tools
+Additionally, it has paved the way for me to pursue one of the entry-level following roles:
+* Cybersecurity Analyst
+* Security Analyst
+* SOC Analyst
+* Information Security Analyst
+* IT Security Analyst
+* Cyber Defense Analyst
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</div>
+### Skills  
+| Projects | Skills/Knowledge Gained | 
+| :--- |:---:|
+| [1](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/1%20-%20Conduct%20an%20Audit) - Conduct a security audit | `INFOSEC`, `NIST Risk Management Framework`, `Security Audits`, `NIST Cybersecurity Framework`, `Incident Response Playbooks`, `CISSP`, `CIA triad` |
+| [2](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/2%20-%20Network%20Security) - Network Security | `TCP/IP model`,  `Network Architecture`, `Network Communication`, `Security Hardening`, `Network Security`, `Cloud Networks` | 
+| [3](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/3%20-%20Linux%20%26%20SQL) - Linux & SQL | `Command-line Interface`, `SQL`, `Linux`, `Bash` | 
+| [4](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/4%20-%20Assets%20%26%20Threats%20%26%20Vulnerabilities) - Assets, Threats, & Vulnerabilities | `Authentication`, ` Vulnerability assessment`, `Cryptography`, `Asset Classification`, `Threat Modelling Analysis`|
+| [5](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/5%20-%20Detection%20%26%20Response) - Detection & Response | `Incident Lifecycle`, `Incident Journal` |
+| [6](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/6%20-%20Tcpdump%20%26%20Wireshark) - Tcpdump & Wireshark | `Packet Analyzer` | 
+| [7](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/7%20-%20IDS%20%26%20SIEM) - IDS & SIEM | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk` |
+| [8](https://github.com/Kwangsa19/Ketmanto-Cybersecurity-Portfolio/tree/main/8%20-%20Automation%20with%20Python) - Automation with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`| 
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+### Tools 
+Several tools that I used: 
+* Google Workspace (Drive, Docs, Sheets, Slides)
+* Markdown Language 
+* Tcpdump
+* Wireshark
+* Linux OS
+* SQL
+* Chronicle
+* Splunk
+* Suricata
+* Python 
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-557C94?style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
+### Other references 
+Please have a look on other standalone portfolio that I published: 
+* Python - Cybersecurity - [Bruteforce Zipfile](https://github.com/Kwangsa19/Python-Cybersecurity-Bruteforce-zipfile)
+* Python - Cybersecurity - [Automation Case](https://github.com/Kwangsa19/Python-Cybersecurity-Automation-Case)
+* Python - Cybersecurity - [Transaction Fraud](https://github.com/Kwangsa19/Python-Cybersecurity-Transaction-Fraud) 
+* Cybersecurity - Investigation & Risk Assessment Based on [MITRE ATT&CK Framework and Open-Source Intelligence (OSINT)](https://github.com/Kwangsa19/Cybersecurity-Investigation-Risk-Report)
 
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Azure_Data_Scientist_Associate-0089D6?style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IBM_Data_Science_Professional_Certificate-054ADA?style=for-the-badge&logo=IBM&logoColor=white" />
-</div>
+**Stay tuned for updates!**
+
+This portfolio will continuously grow as I complete more certificates and projects. I encourage you to visit again to see my progress and learn more about my skills and experience.
+Thank you for your time. For more information, please connect with me on [Linkedin](linkedin.com/in/ketmanto-wangsa/).
 

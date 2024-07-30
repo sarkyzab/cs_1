@@ -11,9 +11,9 @@ I have developed a cybersecurity portfolio showcasing various tasks/projects i h
 * Performing packet capture and analysis
 
 ## Skills  
-| Project | Skill | 
+| Projects | Skills | 
 | :--- |:---:|
-| SIEM Log Analysis with Splunk | |
+| SIEM Log Analysis with Splunk | <a href="https://github.com/sarkyzab/cs_1/tree/main/1%20-%20SIEM%20Log%20Analysis%20with%20Splunk"> SIEM Analysis</a>|
 | Network Traffic Monitoring with Wireshark ||
 | Security Automation with Shuffle SOAR ||
 | Incident Response with Velociraptor ||

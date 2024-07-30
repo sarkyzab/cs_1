@@ -13,7 +13,7 @@ I have developed a cybersecurity portfolio showcasing various tasks/projects i h
 ## Skills  
 | Projects | Skills | 
 | :--- |:---:|
-| SIEM Log Analysis with Splunk | <a href="https://github.com/sarkyzab/cs_1/tree/main/1%20-%20SIEM%20Log%20Analysis%20with%20Splunk">SIEM Analysis</a>|
+| SIEM Log Analysis with Splunk | <a href="https://github.com/sarkyzab/cs_1/tree/main/1%20-%20SIEM%20Log%20Analysis%20with%20Splunk">SIEM Analysis;float:left</a>|
 | Network Traffic Monitoring with Wireshark | <a href="https://github.com/sarkyzab/cs_1/tree/main/2%20-%20Network%20Traffic%20Monitoring%20with%20Wireshark">Network Monitoring</a>|
 | Security Automation with Shuffle SOAR | <a href="https://github.com/sarkyzab/cs_1/tree/main/3%20-%20IR%20%26%20Automation%20with%20Shuffle%20SOAR">SOAR</a>|
 | Case Management with TheHive | <a href="https://github.com/sarkyzab/cs_1/tree/main/4%20-%20Case%20Management%20with%20TheHive">Case Management</a>|

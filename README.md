@@ -19,7 +19,7 @@ I have developed a cybersecurity portfolio showcasing various tasks/projects i h
 | Incident Response with Velociraptor | <a href="https://github.com/sarkyzab/cs_1/tree/main/4%20-%20Incident%20Response%20with%20Velociraptor"> Incident Response</a>|
 | Case Management with TheHive | <a href="https://github.com/sarkyzab/cs_1/tree/main/5%20-%20Case%20Management%20with%20TheHive"> Case Management</a>|
 | Digital Forensics with Autopsy | <a href="https://github.com/sarkyzab/cs_1/tree/main/6%20-%20Digital%20Forensics%20with%20Autopsy"> Digital Forensics</a>|
-| Threats Management | <a href="https://github.com/sarkyzab/cs_1/tree/main/7%20-%20Assets%2C%20Threats%2C%20%26%20Vulnerabilities"> Hashing & Decryption</a>|
+| Threats Management | <a href="https://github.com/sarkyzab/cs_1/tree/main/7%20-%20Threat%20Management"> Hashing & Decryption</a>|
 | Automation with Python | <a href="https://github.com/sarkyzab/cs_1/tree/main/8%20-%20Automation%20with%20Python"> Python</a>|
 
 ## Tools 

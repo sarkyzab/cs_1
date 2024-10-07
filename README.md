@@ -32,7 +32,7 @@ I am proficient in using these tools.
 </div>
 
 ## Certifications
-These are my CS releted certifications
+These are my CS related certifications.
 
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-006400?style=for-the-badge&logo=compTIA&logoColor=white" />

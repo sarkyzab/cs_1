@@ -2,12 +2,13 @@
 For the past five years, I've thrived in the dynamic world of cybersecurity as a Security Operations Center (SOC) analyst.  My passion for protecting digital assets fuels my commitment to ensuring system integrity against ever-evolving threats.  I excel at analyzing security events with a keen eye for identifying potential vulnerabilities and threats.  Leveraging my expertise in SIEM, IDS, and other security technologies, I effectively detect suspicious activity and indicators of compromise (IOCs).  This allows me to swiftly assess incident severity and prioritize responses, ensuring a rapid and efficient mitigation strategy.
 
 ## Objective
-I have developed a cybersecurity portfolio showcasing various tasks/projects i have completed as a SOC Analyst. This program has provided insights into:
-* Programming for cybersecurity tasks
-* Frameworks and controls that inform security operations
-* SIEM tools for cybersecurity
-* Detecting and responding to incidents using an intrusion detection system
-* Performing packet capture and analysis
+In this cybersecurity portfolio, I have showcased various tasks/projects I have completed as a SOC Analyst:
+* Anomaly Detection with Splunk
+* Vulnerability Management with Tenable
+* Malware Identification with Zui
+* Threat Hunting and IR with Defender EDR
+* Digital Forensics with Autopsy
+* Programming with Linux and Python
 
 ## Tools
 I am proficient in using these tools.
